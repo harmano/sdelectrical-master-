@@ -224,12 +224,13 @@ canvas {
     font-size: 15px;
     font-weight: 600;
     text-transform: uppercase;
-    padding: 8px 40px 8px;
+    padding: 8px 40px 8px !important;
     border-radius: 40px;
     transition: all 0.3s linear;
     overflow: hidden;
     letter-spacing: 0.2em;
     z-index: 1;
+    white-space:nowrap;
     
     
 }
