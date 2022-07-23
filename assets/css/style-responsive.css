@@ -223,9 +223,7 @@
         padding: 0 20px;
         border-radius: 20px 20px 0 0;
     }
-    *{
-        border:1px solid yellow;
-    }
+ 
     .testimonial-one__right {
         max-height: 400px;
     }
@@ -534,9 +532,7 @@
 
 
 
-    *{
-        border:1px solid red;
-    }
+   
     .news-one__img-2 img {
         width: 100% !important;
     }
@@ -583,9 +579,6 @@
 
 /* Mobile Layout: 320px. */
 @media only screen and (max-width: 767px) {
-    *{
-        border:1px solid green;
-    }
     .news-one__img-2 img {
         width: 100% !important;
     }
