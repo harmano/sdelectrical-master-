@@ -2473,7 +2473,7 @@ ol, ul {
     display: block;
     padding-top: -120px;
     padding: 0 5vw 0px 5vw;
-    z-index: 1;
+    z-index: 98;
 
 }
 
