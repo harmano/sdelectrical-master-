@@ -582,8 +582,24 @@
     .news-one__img-2 img {
         width: 100% !important;
     }
+    .section-title__tagline{
+        display: none;
+    }
+    .margin-top-mobile{
+        margin-top: -20px;
+    }
+    .contact-page__left .section-title {
+        margin-bottom: 0px;
+    }
+    
+    .contact-page__social-list{
+        display: none;
+    }
     .about-page-team {
         padding: 20px 30px 90px;
+    }
+    .contact-page__text{
+        padding-bottom: 0px;
     }
     .testimonial-one {
         position: relative;
