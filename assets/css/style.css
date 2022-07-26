@@ -6421,9 +6421,28 @@ width: 70px;
     position: relative;
     display: block;
 }
+.comment-form__input-box select {
+    height: 70px;
+    width: 100%;
+    border: none;
+    background: #eef3f7;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin-bottom: 20px;
+    border-radius: var(--thm-bdr-radius);
+    outline: none;
+    font-size: 16px;
+    color: var(--thm-gray);
+    font-weight: 500;
+    display: block;
+}
+
+
+
 
 .comment-form__input-box input[type="text"],
 .comment-form__input-box input[type="phone"],
+.comment-form__input-box input[type="services"],
 .comment-form__input-box input[type="email"] {
     height: 70px;
     width: 100%;
