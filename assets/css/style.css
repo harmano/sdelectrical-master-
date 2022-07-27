@@ -6436,8 +6436,25 @@ width: 70px;
     font-weight: 500;
     display: block;
 }
+.comment-form__input-box select.valid {
+    color: red;
+}
+
+.input-field input[type=text]:focus {
+    background-color: rgb(237, 237, 237) !important;
+}
+.input-field input[type=phone]:focus {
+    background-color: rgb(237, 237, 237);
+}
+.input-field input[type=email]:focus {
+    background-color: rgb(237, 237, 237);
+}
+.input-field input[type=address]:focus {
+    background-color: rgb(237, 237, 237);
+}
 
 
+ 
 
 
 .comment-form__input-box input[type="text"],
@@ -7107,3 +7124,5 @@ width: 70px;
 .business-growth-two .business-growth__right-text {
     color: var(--thm-gray);
 }
+
+
